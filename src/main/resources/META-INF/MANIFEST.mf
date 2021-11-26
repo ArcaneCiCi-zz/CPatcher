@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: me.moose.cpatcher.PatcherAgent
+Agent-Class: me.moose.cpatcher.PatcherAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
